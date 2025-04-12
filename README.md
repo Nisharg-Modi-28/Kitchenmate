@@ -15,7 +15,7 @@ KitchenMate is a user-friendly recipe app that allows you to:
 
 ### Prototypes & Design Files
 - [Figma Design](https://www.figma.com/design/YsR6fR9V6r8llOXqBWg5DR/Kitchen-----------Mate?node-id=0-1&p=f)
-- [Interactive Prototype](https://www.figma.com/proto/YsR6fR9V6r8llOXqBWg5DR/Kitchen-----------Mate?node-id=142-1366&t=wBCO5obrJszu6Q6T-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=391%3A2357)
+- [Interactive Prototype](https://www.figma.com/proto/YsR6fR9V6r8llOXqBWg5DR/Kitchen-----------Mate?node-id=391-2357&t=ErvGx2RJmNuu6Pes-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=391%3A2357)
 
 ### Design Documentation
 - User Personas
